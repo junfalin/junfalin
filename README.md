@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm jf l, A Python development:
+Hello, I'm jf l, A Python developer:
 
 - 🔭 I’m currently working on Hangzhou,China
 - 🌱 I’m currently learning Rust
