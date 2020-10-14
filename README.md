@@ -14,4 +14,3 @@ Hello, I'm jf l, A Python developer:
 -->
 ![junefar's github stats](https://github-readme-stats.vercel.app/api?username=junefar&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junefar&layout=compact&hide=html,css)
