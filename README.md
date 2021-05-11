@@ -10,5 +10,5 @@ Hello, I'm jf l, A Python developer:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![junefar's github stats](https://github-readme-stats.vercel.app/api?username=junefar&show_icons=true&theme=radical)
+![jf's github stats](https://github-readme-stats.vercel.app/api?username=junfalin&show_icons=true&theme=radical)
 
