@@ -2,7 +2,7 @@
 
 Hello, I'm jf l, A Python developer:
 
-## ✒[click](https://handsomelin.top/)
+## ✒[click](http://i.handsomelin.top/)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
